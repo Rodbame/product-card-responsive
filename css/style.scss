@@ -157,6 +157,7 @@ body {
       justify-content: center;
       align-items: center;
       gap: 5px;
+      transition: .3s;
       &:hover{
         background: hsl(158, 36%, 26%);
       }
